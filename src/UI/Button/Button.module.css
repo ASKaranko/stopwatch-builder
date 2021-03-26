@@ -1,0 +1,26 @@
+.Button {
+    background-color: tomato;
+    border: none;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin: 10px 50px;
+    font-weight: bold;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+}
+
+.Start {
+    background-color: green;
+}
+
+.Pause {
+    background-color: lightslategray;
+}
+
+.Reset {
+    background-color: red;
+}

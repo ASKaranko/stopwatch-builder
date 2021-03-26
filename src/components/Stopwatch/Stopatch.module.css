@@ -1,0 +1,12 @@
+.Stopwatch {
+    font-size: 6rem;
+    color: #fff;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Stopwatch span {
+
+}
